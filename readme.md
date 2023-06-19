@@ -6,7 +6,7 @@
 
 ### Learning.....
 ## Front-End:
-# HTML, CSS, SASS, JAVASCRIPT.
+### HTML, CSS, SASS, JAVASCRIPT.
 
 ## Back-End:
-# PHP 
+### PHP 
